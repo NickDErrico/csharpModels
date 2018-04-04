@@ -8,3 +8,13 @@
 /Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.AssemblyInfo.cs
 /Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.dll
 /Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.pdb
+/Users/troya/csharp-playground/csharpModels/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.deps.json
+/Users/troya/csharp-playground/csharpModels/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.runtimeconfig.json
+/Users/troya/csharp-playground/csharpModels/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.runtimeconfig.dev.json
+/Users/troya/csharp-playground/csharpModels/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.dll
+/Users/troya/csharp-playground/csharpModels/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.pdb
+/Users/troya/csharp-playground/csharpModels/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.csprojResolveAssemblyReference.cache
+/Users/troya/csharp-playground/csharpModels/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.csproj.CoreCompileInputs.cache
+/Users/troya/csharp-playground/csharpModels/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.AssemblyInfo.cs
+/Users/troya/csharp-playground/csharpModels/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.dll
+/Users/troya/csharp-playground/csharpModels/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.pdb
